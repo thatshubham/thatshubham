@@ -1,9 +1,9 @@
 # Hi there, I'm Shubham 
 
 <b>I'm a Software Developer and recent graduate from UNC Charlotte 🤙 </b>  
-🏡 Here's my [internet home][website]!  
+🏡 [Here's] my internet home[website]!  
 🟢 In progress: Learning databases and shell scripting.  
-🟡 My 2020 goal is to contribute to more open source projects. 
+🟡 My 2020 goal is to contribute to more open source projects.   
 🎨 Fun fact: I love to draw, play guitar and listen to podcasts in my free time.    
  
  
