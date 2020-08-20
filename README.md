@@ -1,16 +1,15 @@
-### 👋 Hi there, I'm Shubham 
+# Hi there, I'm Shubham 
 
-## I'm a Software Developer and recent graduate from UNC Charlotte!
-- 🔭 Here's my [internet home][website]!
-- 🌱 I’m currently learning databases and shell scripting
-- 🥅 2020 Goals: Contribute to more Open Source projects
-- ⚡ Fun fact: I love to draw, play guitar and listen to podcasts in my free time
+<b>I'm a Software Developer and recent graduate from UNC Charlotte!</b>  
+Here's my [internet home][website]!
+- I’m currently learning databases and shell scripting and my 2020 goal is to contribute to more open source projects
+- Fun fact: I love to draw, play guitar and listen to podcasts in my free time
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img width="16px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+[<img width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
