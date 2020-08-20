@@ -10,7 +10,7 @@
  <br>
  
  
-#### Connect with me  
+#### I love meeting new pepople. Feel free to hit me up:  
 [<img width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
