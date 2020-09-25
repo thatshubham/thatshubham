@@ -2,7 +2,7 @@
 
 ---
 
-I'm a Software Developer and recent graduate from [UNC Charlotte][uncc].   
+
 [<b>Here's my internet home.</b>][website] <br>
 
 
@@ -11,4 +11,3 @@ I'm a Software Developer and recent graduate from [UNC Charlotte][uncc].
 
 
 [website]: https://thatshubham.com/
-[uncc]: https://www.uncc.edu/
