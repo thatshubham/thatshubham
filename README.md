@@ -10,4 +10,4 @@
 
 
 
-[website]: https://thatshubham.com/
+[website]: https://thatshubham.com/contact
