@@ -2,6 +2,5 @@
 
 
 
-wish I used github more..
 
 [website]: https://thatshubham.com/contact
